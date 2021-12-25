@@ -1,0 +1,15 @@
+current directory: /Users/chisato/Documents/sources/app-chat/live-chat-rails/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/chisato/.rbenv/versions/3.0.0/bin/ruby -I /Users/chisato/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20211225-27183-wfbt3o.rb extconf.rb
+creating Makefile
+
+current directory: /Users/chisato/Documents/sources/app-chat/live-chat-rails/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/chisato/Documents/sources/app-chat/live-chat-rails/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/chisato/Documents/sources/app-chat/live-chat-rails/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20211225-27183-fem1kl
